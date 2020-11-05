@@ -1470,6 +1470,7 @@ section.buttons .container-fluid {
     /* Disable horizontal scroll */
     padding-top: 15px;
     padding-bottom: 15px;
+    padding-right: 13px;
 }
 
 
@@ -1487,7 +1488,7 @@ section.buttons .container-fluid {
 /* When you mouse over the navigation links, change their color */
 
 .sidenav a:hover {
-    color: hsl(0, 66%, 49%);
+    color: #16cf16;
 }
 
 
